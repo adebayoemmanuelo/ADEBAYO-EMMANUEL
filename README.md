@@ -1,4 +1,4 @@
-# Adebayo Emmanuel Olutola — Portfolio
+# Adebayo Emmanuel — Portfolio
 
 Responsive personal portfolio. No build tools or package installation required.
 
